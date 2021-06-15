@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @graffitarini
-- 👀 I’m interested in Humanities and Applied Data Science
-- 🌱 I’m currently learning Data Engineering 
+- 👀 A self-taught IT professional specialized in Data Analytics & Engineering
+- 🌱 I’m learning daily to improve my proficiency in Python, SQL, and R
 - 💞️ I’m looking to collaborate on Data Science projects
 - 📫 You can reach me at graffitarini@gmail.com
 
