@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @graffitarini
 - 👀 A self-taught IT professional specialized in Data Analytics & Engineering
 - 🌱 I’m learning daily to improve my proficiency in Python, SQL, and R
-- 💞️ I’m looking to collaborate on Data Science projects
+- 💞️ I’m looking to collaborate on Data Analytics projects
 - 📫 You can reach me at graffitarini@gmail.com
 
 <!---
