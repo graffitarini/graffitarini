@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @graffitarini
-- 👀 A self-taught IT Support Engineer, interested in Data Analytics & Engineering
+- 👀 A self-taught IT Support Engineer, interested in Data Analytics & Engineering in Tokyo
+- Finance & Accounting specialist by formal education
 
 <!---
 graffitarini/graffitarini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
